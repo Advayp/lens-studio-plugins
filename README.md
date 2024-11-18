@@ -10,7 +10,7 @@ git clone https://github.com/Advayp/lens-studio-plugins.git
 
 2. Install the latest version of Lens Studio from [this link](https://ar.snap.com/download?lang=en-US).
 
-3. Open Lens Studio and follow the recommended setup instructions
+3. Open Lens Studio and follow its recommended setup instructions
 
 4. In Lens Studio, open the preferences window. On Mac, Lens Studio -> Preferences
 
